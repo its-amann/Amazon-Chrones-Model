@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="time_series_forecasting.png" alt="Time Series Forecasting Screenshot" width="400"/>
+  <img src="![image](https://github.com/user-attachments/assets/113c111e-f74d-49ad-80f9-53c2550259b7)
+" alt="Time Series Forecasting Screenshot" width="400"/>
 </p>
 
 <h1 align="center"> 🌡️ Time Series Forecasting with Amazon Chronos 🌡️</h1>
