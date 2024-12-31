@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/113c111e-f74d-49ad-80f9-53c2550259b7)
-" alt="Time Series Forecasting Screenshot" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/a6ecf9d0-7811-442f-8fe0-2efbc885c927)
+
+
 
 <h1 align="center"> 🌡️ Time Series Forecasting with Amazon Chronos 🌡️</h1>
 
@@ -35,10 +34,6 @@ Welcome to the **Time Series Forecasting project**, a robust and analytical tool
 -   **Parameter Tuning:** Features a parameter tuning module to optimize model performance.
 -   **Visualization:** Generates clear visualizations for both data exploration and forecast evaluation.
 
-<p align="center">
-  <img src="time_series_architecture.png" alt="System Architecture" width="400"/>
-</p>
-
 ---
 
 ## 🛠 Features
@@ -55,119 +50,76 @@ Welcome to the **Time Series Forecasting project**, a robust and analytical tool
 ---
 
 ## 📸 Screenshots
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/33a56017-3cbd-4394-9da7-dd1504ef86dd)
-" alt="Hourly Temperature Plot" width="400"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/2aac59af-d46c-4c60-98a7-ac3b54793ec7)
 <p align="center">
   <font size="6">
     Hourly temperature data plot.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/cd6a8ed6-a6d6-430b-bb1c-8c83c4bf4039)
-" alt="Monthly Temperature Plot" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/4e8e76e7-a88d-4531-9333-119bf86e409d)
+
 <p align="center">
   <font size="6">
     Monthly seasonality of temperature, red lines represent monthly means.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e5f4e7c0-a8bf-4d59-8cce-654e0e09f85e)
-" alt="Quarterly Temperature Plot" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/13aeac85-3e82-483b-82a7-55e1ea508cb4)
+
 <p align="center">
   <font size="6">
     Quarterly seasonality of temperature data.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/0d3dd758-dd90-4aad-a0f1-672065caca41)
-" alt="Prediction vs Actuals Plot 1" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/6792ae31-570f-43a4-b75b-67b843f7d9ce)
+
 <p align="center">
   <font size="6">
   First cross-validation, Actual vs. Predicted values.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/baa78a45-e998-4cbd-b198-4b09e78b9bfa)
-" alt="Prediction vs Actuals Plot 2" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/770e674e-90af-40ea-9810-0a4aaae6e537)
+
 <p align="center">
   <font size="6">
   Second cross-validation, Actual vs. Predicted values.
   </font>
 </p>
 
-<p align="center">
-  <img src="" alt="Prediction vs Actuals Plot 3" width="400"/>
-</p>
-<p align="center">
-  <font size="6">
-  Third cross-validation, Actual vs. Predicted values.
-  </font>
-</p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/30af0853-a1d8-4936-8abf-6ac0b92adeb5)
-" alt="Prediction vs Actuals Plot 4" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/625ae209-78bc-4a6c-a240-cc6f21ba43fc)
+
 <p align="center">
   <font size="6">
   Fourth cross-validation, Actual vs. Predicted values.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d511aa25-d6bc-4f10-add1-e2c9c0b0857a)
-" alt="Prediction vs Actuals Plot 5" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/c5d7b8f2-4ce3-492c-bc03-08c237295646)
+
 <p align="center">
   <font size="6">
   Fifth cross-validation, Actual vs. Predicted values.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/54cf2c6c-ae16-4d7b-a847-cc22517410c0)
-" alt="Prediction vs Actuals Plot 6" width="400"/>
-</p>
-<p align="center">
-  <font size="6">
-    Sixth cross-validation, Actual vs. Predicted values.
-  </font>
-</p>
-
-<p align="center">
-  <img src="prediction_vs_actual_7.png" alt="Prediction vs Actuals Plot 7" width="400"/>
-</p>
-<p align="center">
-  <font size="6">
-  Seventh cross-validation, Actual vs. Predicted values.
-  </font>
-</p>
 
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/65902550-b87f-4396-bece-030dbe6043f4)
-" alt="Prediction vs Actuals Plot 10" width="400"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/02d21ffa-ba04-4edb-88fb-12512789f3b4)
+
 <p align="center">
   <font size="6">
   Tenth cross-validation, Actual vs. Predicted values.
   </font>
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/40098ee2-3ae0-4cb2-94bf-9876198a994c)
-" alt="Tuned Forecast Plot" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/95d3cbe3-ca21-43ee-9192-79b5a6bf3ca8)
+
 <p align="center">
     <font size="6">
    Final forecast plot with tuned model parameters, Actual vs. Predicted values.
